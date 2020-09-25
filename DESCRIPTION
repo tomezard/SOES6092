@@ -8,4 +8,4 @@ Description: Datasets and dependencies for BIOL6052 Data Management and Generali
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-Depends: R (>= 3.6.0), dplyr, ggplot2, ggthemes, lme4, lubridate, MASS, mccv, paran, tidyr, Stat2Data, wesanderson 
+Depends: R (>= 3.6.0), dplyr, ggplot2, ggthemes, googlesheets, lme4, lubridate, MASS, mccv, paran, tidyr, Stat2Data, wesanderson 
