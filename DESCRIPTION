@@ -1,11 +1,10 @@
 Package: BIOL6052
 Type: BIOL6052
-Title: What the Package Does (Title Case)
+Title: Dependencies and data for BIOL6052
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Tom Ezard
+Maintainer: Tom Ezard <t.ezard@soton.ac.uk>
+Description: Datasets and dependencies for BIOL6052 Data Management and Generalised Linear Modelling for Biologists, a 4th year module in the Faculty of Environmental and Life Sciences at the University of Southampton. The datasets are available online, either through R, on Patrick Doncaster's webpages or elsewhere as published material that accompanies the manuscripts. The help files describing the metadata will be discussed within each relevant practical session. 
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
