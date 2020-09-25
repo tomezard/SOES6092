@@ -18,7 +18,7 @@ License: \tab GPL (>= 2)\cr
 LazyLoad: \tab yes\cr
 }
 }
-\authors{
+\author{
 Thomas H.G. Ezard, C. Patrick Doncaster
 Maintainer: Thomas H.G. Ezard \email{t.ezard@soton.ac.uk}
 }
