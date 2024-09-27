@@ -1,2 +1,2 @@
-# BIOL6052
-Data sets and package dependencies for my BIOL6052 Data Management and Generalised Linear Modelling module at the University of Southampton
+# SOES6092
+Data sets and package dependencies for my SOES6092 Biological Data Science with R module at the University of Southampton. Ongoing work is to move all course materials to this site.
