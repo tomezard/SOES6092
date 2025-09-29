@@ -8,4 +8,4 @@ Description: Datasets and dependencies for SOES6092 Biological Data Science in R
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-Depends: R (>= 4.1.0), dplyr, ggplot2, ggthemes, gglm, ggpubr, ggResidpanel, gt, lme4, lubridate, MuMIn, paran, pscl, readxl, tidyr, Stat2Data, wesanderson, viridis 
+Depends: R (>= 4.2.1), dplyr, ggplot2, ggthemes, gglm, ggpubr, ggResidpanel, gt, lme4, lubridate, MuMIn, paran, pscl, readxl, tidyr, Stat2Data, wesanderson, viridis 
